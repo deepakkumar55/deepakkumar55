@@ -5,3 +5,4 @@
 - 👀 Looking for Job & Internship
 - 🚀 Hobbies: traveling
 
+#### Thanks for checking it out. Have a good day. ✨
