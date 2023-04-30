@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/deepakk94382295" target="blank"><img src="https://img.shields.io/twitter/follow/deepakk94382295?logo=twitter&style=for-the-badge" alt="deepakk94382295" /></a> </p>
 
-
 - 📫 How to reach me **dk119819@gmail.com**
 
 - ⚡ Fun fact **Rabbits can see behind them without moving their heads**
@@ -39,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&locale=en" alt="deepakkumar55" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&" alt="deepakkumar55" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&" alt="deepakkumar55" /></p>
 
 
 
