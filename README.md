@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/deepakkumar55/deepakkumar55/blob/main/DeepakKumar.jpg)
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">Java Developer with experience in MEARN Stack, Passionate about nature photography, editing, and problem-solving.</h3>
