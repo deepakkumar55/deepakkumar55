@@ -39,6 +39,11 @@
 
 <p><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact" alt="deepakkumar55" /> </p> <p><img width="45%" hight= "100px"  align="left" src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&locale=en" alt="deepakkumar55" /></p> <p><img width="50%" hight= "100px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&" alt="deepakkumar55" /></p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/deepakkumar55/deepakkumar55/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
