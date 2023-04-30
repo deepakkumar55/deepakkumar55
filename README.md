@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/deepakk94382295" target="blank"><img src="https://img.shields.io/twitter/follow/deepakk94382295?logo=twitter&style=for-the-badge" alt="deepakk94382295" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@dk119819](https://medium.com/@dk119819)
 
 - 📫 How to reach me **dk119819@gmail.com**
 
@@ -16,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- 📝 I regularly write articles on [https://medium.com/@dk119819](https://medium.com/@dk119819)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
