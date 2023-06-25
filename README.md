@@ -1,7 +1,7 @@
 ![logo](https://github.com/deepakkumar55/deepakkumar55/blob/main/DeepakKumar.jpg)
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">Java Developer with experience in MEAN Stack, Passionate about nature photography, editing, and problem-solving.</h3>
+<h3 align="center">Java Developer with experience in MEAN Stack, Passionate about nature photography, editing, and problem-solving...</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
