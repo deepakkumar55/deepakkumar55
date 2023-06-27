@@ -40,3 +40,8 @@
 
 
 <p><img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact" alt="deepakkumar55" /> </p> <p><img width="45%" hight= "100px"  align="left" src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&locale=en" alt="deepakkumar55" /></p> <p><img width="50%" hight= "100px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&" alt="deepakkumar55" /></p>
+
+
+
+
+[![deepakkumar55's GitHub | Languages Over Time](https://stats.quine.sh/deepakkumar55/languages-over-time?theme=dark)](https://quine.sh)
