@@ -35,13 +35,13 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deepakkumar55&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumar55)
+
 <img align="right"  src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px"/>
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkumar55" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumar55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkumar55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&locale=en&theme=tokyonight" alt="deepakkumar55" /></p>
 
