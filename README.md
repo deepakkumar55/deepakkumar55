@@ -64,22 +64,7 @@
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=deepakkumar55&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
 
 
-<a href="https://github.com/deepakkumar55/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkumar55&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/deepakkumar55/deepakkumar55.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkumar55&repo=deepakkumar55.github.io&theme=buefy" />
-</a>
 
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/deepakkumar55/deepakkumar55/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/deepakkumar55">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/deepakkumar55/deepakkumar55/master/assets/codesandbox.svg" />
-</a>
 
 <picture>
   <source
