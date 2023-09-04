@@ -33,14 +33,6 @@
 <a href="https://discord.gg/#4202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4202" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
-- Java
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- HTML/CSS
-- ...
 
 
  
