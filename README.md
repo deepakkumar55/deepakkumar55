@@ -41,7 +41,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=deepakkumar55&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=deepakkumar55&theme=radical&no-frame=false&no-bg=false&margin-w=3)
 
 ### ✍️ Random Dev Quote
 
