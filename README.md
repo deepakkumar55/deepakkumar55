@@ -35,8 +35,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deepakkumar55&limit=5&theme=dark&combine_all_yearly_contributions=true)
-### 😂 Random Dev Meme
-<img align="right"  src='https://randommeme-five.vercel.app/' style="height: 100px;"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumar55)
+<img align="right"  src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px"/>
 
 
 
