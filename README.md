@@ -47,9 +47,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=deepakkumar55&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 
@@ -60,6 +58,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&locale=en&theme=tokyonight" alt="deepakkumar55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&theme=tokyonight" alt="deepakkumar55" /></p>
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=deepakkumar55&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
+
 
 <picture>
   <source
