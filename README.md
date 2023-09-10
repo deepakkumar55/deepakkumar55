@@ -58,9 +58,9 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+![light](https://raw.githubusercontent.com/deepakkumar55/deepakkumar55/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+![dark](https://raw.githubusercontent.com/deepakkumar55/deepakkumar55/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkumar55" /></p>
 
