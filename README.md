@@ -56,7 +56,8 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-
+.. image:: https://wakatime.com/share/@raajaryan/6fef8564-a4fe-4e6b-8489-9e3b21fdaf9d.png
+    :target: https://wakatime.com/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkumar55" /></p>
 
