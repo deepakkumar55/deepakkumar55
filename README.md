@@ -52,8 +52,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=deepakkumar55&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+[![wakatime](https://wakatime.com/badge/user/8c62deae-cd4a-420c-b02f-3eb8c4234dfc.svg)](https://wakatime.com/@8c62deae-cd4a-420c-b02f-3eb8c4234dfc)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkumar55" /></p>
