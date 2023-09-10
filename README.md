@@ -52,9 +52,6 @@
 
 
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkumar55" /></p>
 
@@ -63,6 +60,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&theme=tokyonight" alt="deepakkumar55" /></p>
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=deepakkumar55&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
 
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
 
 
