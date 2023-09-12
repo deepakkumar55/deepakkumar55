@@ -54,7 +54,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raajaryan&layout=full&langs_count=7&custom_title=🚀 My Coding Activity&border=true&bg_color=1A1B27&text_color=fff&title_color=9a55ff&icon_color=9a55ff&border_radius=12)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raajaryan&layout=compact&langs_count=7&hide_border=true&bg_color=2d2d2d&text_color=ffffff&title_color=ff5722&icon_color=ff5722&border_radius=12)
 
 
 
