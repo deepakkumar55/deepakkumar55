@@ -8,7 +8,7 @@
 <h3 align="center">Java Developer with experience in MERN Stack, Passionate about nature photography, editing, and problem-solving...</h3>
    
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-      
+       
  
 <p align="left"> <a href="https://twitter.com/deepakk94382295" target="blank"><img src="https://img.shields.io/twitter/follow/deepakk94382295?logo=twitter&style=for-the-badge" alt="deepakk94382295" /></a> </p>
    
