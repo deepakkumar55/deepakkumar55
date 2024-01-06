@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/deepakkumar55/deepakkumar55/blob/main/DeepakKumar.jpg)   --> 
 
-<p align="center">
+<p align="center"> 
   Visitor count<br>    
   <img src="https://profile-counter.glitch.me/deepakkumar55/count.svg" />
 </p>
