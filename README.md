@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>     
-  <img src="https://profile-counter.glitch.me/deepakkumar55/count.svg" /> 
+  <img src="https://profile-counter.glitch.me/deepakkumar55/count.svg" />
 </p>
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1> 
 <h3 align="center">Java Developer with experience in MERN Stack, Passionate about nature photography, editing, and problem-solving...</h3>
