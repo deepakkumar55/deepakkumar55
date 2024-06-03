@@ -21,7 +21,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- 📝 I regularly write articles on [raajaryan.tech](raajaryan.tech)
+- 📝 I regularly write articles on [RaAj Aryan Blog's](https://raajaryan.tech)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
