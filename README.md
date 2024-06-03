@@ -21,7 +21,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- 📝 I regularly write articles on [https://medium.com/@dk119819](https://medium.com/@dk119819)
+- 📝 I regularly write articles on [https://medium.com/@dk119819](raajaryan.tech)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
