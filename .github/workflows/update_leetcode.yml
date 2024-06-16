@@ -1,0 +1,25 @@
+name: Update LeetCode Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with latest LeetCode stats
+        run: |
+          curl -o README.md 'https://raw.githubusercontent.com/raaj_aryan/raaj_aryan/main/README.md'
+          sed -i 's/raaj_aryan/'"$USERNAME"'/g' README.md
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Updated LeetCode stats'
+          git push

@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/deepakkumar55/deepakkumar55/blob/main/DeepakKumar.jpg)   --> 
+<!-- ![logo](https://github.com/deepakkumar55/deepakkumar55/blob/main/DeepakKumar.jpg)    -->
 
 <p align="center">  
   Visitor count<br>     
@@ -48,6 +48,13 @@
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
 
+
+![LeetCode Badge](https://leetcode-badge.haozibi.dev/api/raaj_aryan?type=solved)
+![LeetCode Solved](https://leetcode-badge.haozibi.dev/api/raaj_aryan?type=solved)
+![LeetCode Rank](https://leetcode-badge.haozibi.dev/api/raaj_aryan?type=ranking)
+
+
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -90,3 +97,7 @@
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dk119819)
+
+
+
+
