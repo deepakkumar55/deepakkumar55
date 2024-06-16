@@ -10,16 +10,22 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
-      - name: Update README with latest LeetCode stats
-        run: |
-          curl -o README.md 'https://raw.githubusercontent.com/raaj_aryan/raaj_aryan/main/README.md'
-          sed -i 's/raaj_aryan/'"$USERNAME"'/g' README.md
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add README.md
-          git commit -m 'Updated LeetCode stats'
-          git push
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3 # Updated to use Node.js 20
+
+    - name: Fetch LeetCode stats
+      run: |
+        echo "Fetching LeetCode stats"
+        curl -o README.md 'https://raw.githubusercontent.com/deepakkumar55/deepakkumar55/main/README.md'
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add README.md
+        git commit -m 'Updated LeetCode stats'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
