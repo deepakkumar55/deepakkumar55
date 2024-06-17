@@ -48,9 +48,9 @@ When I'm not coding, you'll find me behind the lens, capturing life's moments th
 
 ### 🔥 Streak Stats
 <!-- animation way to represent -->
+
 ### ✨ Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=deepakkumar55&color=brightgreen)
-
 
 ### 📊 Recent GitHub Activity
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumar55" alt="deepakkumar55" /></a> </p>
@@ -63,6 +63,7 @@ When I'm not coding, you'll find me behind the lens, capturing life's moments th
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dk119819)
+
 
 
 
