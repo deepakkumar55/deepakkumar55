@@ -40,12 +40,12 @@
 
 ### 🚀 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,bootstrap,tailwind,materialui,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,bootstrap,tailwind,materialui,threejs" />
 </p>
 
 ### ⚙️ Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,appwrite,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,appwrite," />
 </p>
 
 
