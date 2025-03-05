@@ -12,11 +12,12 @@
 
 <h1 align="center">Hi there, I'm Deepak Kumar! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></h1>
 
-Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber & Blogger | Freelancer | OS Contributor | Photographer | Running Tech Community
+Founder at [thecampuscoders](te) | Full Stack Developer | UI/UX designer | YouTuber & Blogger | Freelancer | OS Contributor | Photographer | Running Tech Community
 
 ---
 
-## 🚀 About Me
+<h2 align="left">🚀 About Me</h2>
+
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -27,7 +28,7 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 - 📫 Reach me at **[deepak@thecampuscoders.com](mailto:deepak@thecampuscoders.com)**
 - ⚡ Fun Fact: I might be Spiderman… but you didn’t hear that from me! 🕷️
 
-<h2 align="left">⚡ Tech Stack ⚡</h2>
+<h2 align="left">⚡ Tech Stack </h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,express,mongodb,github,git,ts,md,ps,xd,figma,aws,gcp,vue,vite,graphql,postgres,docker,firebase,azure,githubactions,redux,ai,threejs,postman,idea,eclipse,html,css,bootstrap,materialui,tailwind,nginx,svg,netlify,vercel,heroku,powershell,linux,mysql,firebase,appwrite,,quest&perline=20" alt="Tech Stack" />
 </p>
@@ -45,7 +46,7 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 </p>
 
 <!-- TheCampusCoders Community -->
-<h2 align="left">⚡ TheCampusCoders Community 🚀</h2>
+<h2 align="left">⚡ TheCampusCoders Community </h2>
 <p align="left">
   <a href="https://thecampuscoders.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Website-%230077B5?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://discord.gg/n4mjduGbj8" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-%231DA1F2?style=flat-square&logo=discord&logoColor=white" /></a>
@@ -62,7 +63,7 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 
 
 <!-- Interactive Project Showcase -->
-<h2 align="left">🚀 Featured Projects 🚀</h2>
+<h2 align="left">🚀 Featured Projects </h2>
 <div align="center" >
   <div style="display: flex; justify-content: space-between; gap: 20px;">
   <a href="https://thecampuscoders.com">
@@ -74,16 +75,16 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 </div>
 
 <!-- Recent Youtube Videos -->
-<!-- <h2 align="left">📺 Latest YouTube Videos 📺</h2> -->
+<!-- <h2 align="left">📺 Latest YouTube Videos </h2> -->
 
 <!-- Recent Blog Posts -->
-<!-- <h2 align="left">📚 Latest Blog Posts 📚</h2> -->
+<!-- <h2 align="left">📚 Latest Blog Posts </h2> -->
 
 <!-- Trending GitHub Repos Section -->
-<!-- <h2 align="left">🔥 Trending Repositories 🌟</h2> -->
+<!-- <h2 align="left">🔥 Trending Repositories </h2> -->
 
 <!-- Showcase Open Issues for Contribution  -->
-<!-- <h2 align="left">🤝 Open Source Contribution 🤝</h2> -->
+<!-- <h2 align="left">🤝 Open Source Contribution </h2> -->
 
 <!-- Public Roadmap for Projects -->
 <!-- <h2 align="left">🗺️ Project Roadmap 🗺️</h2> -->
@@ -91,7 +92,7 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 
  <!-- Random Dev Quote -->
 <h2 align="left">✍️ Random Dev Quote</h2>
-<div align="center">
+<div align="left">
   <picture>
     <source 
       srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
@@ -112,14 +113,14 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 
 
 <!-- Wakatime Stats: -->
-<h2 align="left">📊 Wakatime Stats:</h2>
+<h2 align="left">📊 Wakatime Stats</h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=10&bg_color=1A1B27&text_color=fff&title_color=79ff97&icon_color=777&line_height=27" />
 
 
 
 <!-- Interactive Coding Challenges -->
-<h2 align="left">⚔️ Coding Battle Stats ⚔️</h2>
+<h2 align="left">⚔️ Coding Battle Stats </h2>
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/raaj_aryan?theme=dark&font=Noto%20Sans%20Batak&ext=heatmap" alt="LeetCode Stats" height="500" />
 
@@ -131,7 +132,7 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 
 
 <!-- Matrix-style Stats Rain -->
-<h2 align="left">🌈 GitHub Stats 🌈</h2>
+<h2 align="left">🌈 GitHub Stats </h2>
 <div align="center">
   <div style="display: flex; justify-content: space-between; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Stats" />
@@ -146,7 +147,7 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 </div>
 
 <!-- AI-Powered Coding Insights -->
-<h2 align="left">🧠Code Analysis 🧠</h2>
+<h2 align="left">🧠Code Analysis </h2>
 <div align="center">
   <div style="display: flex; justify-content: space-between; gap: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakkumar55&theme=react" />
@@ -156,11 +157,8 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 
 
 
-
-
-
 <!-- 3D Trophy Case -->
-<h2 align="left">🏆 Digital Honors 🏆</h2>
+<h2 align="left">🏆 Digital Honors </h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=deepakkumar55&theme=matrix&row=2&column=4&margin-w=80&margin-h=25" />
 </div>
@@ -168,53 +166,16 @@ Founder at @thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber &
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Contribution Heatmap with Animation -->
-<h2 align="left">💻 Code Pulse 💻</h2>
+<h2 align="left">💻 Code Pulse </h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkumar55&theme=react-dark&bg_color=0D1117&color=00F718&line=00F718&point=FFFFFF" />
 </div>
 
 <!-- Animated Support Section -->
-<h2 align="left">☕ Fuel Innovation ☕</h2>
+<h2 align="left">☕ Fuel Innovation </h2>
 <div align="center">
   <a href="https://buymeacoffee.com/dk119819">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" style="filter: hue-rotate(120deg);animation: pulse 2s infinite;" />
   </a>
 </div>
-
-<!-- Custom CSS Animation -->
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  img:hover {
-    animation: pulse 1s infinite;
-  }
-</style>
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16591701402"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-16591701402');
-</script>
