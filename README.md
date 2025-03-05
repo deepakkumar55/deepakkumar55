@@ -10,11 +10,12 @@
 </div>
 
 
-<h1 align="center">Hi there, I'm Deepak Kumar! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></h1>
 
-Founder at [thecampuscoders](te) | Full Stack Developer | UI/UX designer | YouTuber & Blogger | Freelancer | OS Contributor | Photographer | Running Tech Community
+<h1 align="left">Hi there, I'm Deepak Kumar! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></h1>
 
----
+<p> Founder at thecampuscoders | Full Stack Developer | UI/UX designer | YouTuber & Blogger | Freelancer | OS Contributor | Photographer | Running Tech Community </p>
+
+
 
 <h2 align="left">🚀 About Me</h2>
 
@@ -22,16 +23,65 @@ Founder at [thecampuscoders](te) | Full Stack Developer | UI/UX designer | YouTu
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 - 🚀 Currently working on **[TheCampusCoders](https://www.thecampuscoders.com)**
+* 🖥️  See my portfolio at [Click Here](http://deepak.raajaryan.tech/)
+
 - 🧠 Learning **Next.js, DevOps, System Design, Web3, Blockchain**
 - 🤝 Open to collaborations on **Web Projects & Exciting Tech Ideas**
 - 📝 I regularly write articles on [Blogs](https://www.thecampuscoders.com/blogs)
 - 📫 Reach me at **[deepak@thecampuscoders.com](mailto:deepak@thecampuscoders.com)**
 - ⚡ Fun Fact: I might be Spiderman… but you didn’t hear that from me! 🕷️
 
-<h2 align="left">⚡ Tech Stack </h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,express,mongodb,github,git,ts,md,ps,xd,figma,aws,gcp,vue,vite,graphql,postgres,docker,firebase,azure,githubactions,redux,ai,threejs,postman,idea,eclipse,html,css,bootstrap,materialui,tailwind,nginx,svg,netlify,vercel,heroku,powershell,linux,mysql,firebase,appwrite,,quest&perline=20" alt="Tech Stack" />
+<h2 align="left">⚡ Tech Stack</h2>
+
+### 🛠️ Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,py" />
 </p>
+
+### 🚀 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,bootstrap,tailwind,materialui,threejs" />
+</p>
+
+### ⚙️ Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,appwrite,graphql" />
+</p>
+
+
+### 🧠 AI/ML  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,tensorflow,pytorch" />
+</p>
+
+### 🔗 Blockchain  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,web3,ethers" />
+</p>
+
+### ☁️ DevOps & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes," />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,appwrite,firebase" />
+</p>
+
+### 🎨 Design & Editing  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai," />
+</p>
+
+
+### 📦 Other Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,eclipse,notion," />
+</p>
+
+
+
 
 <!-- Social Links -->
 <h2 align="left">🌐 Connect with me:</h2>
@@ -60,7 +110,26 @@ Founder at [thecampuscoders](te) | Full Stack Developer | UI/UX designer | YouTu
     <a href="https://chat.whatsapp.com/LZvb1gbMC0VKjVbHYP1JMF" target="blank"><img align="center" src="https://img.shields.io/badge/-WhatsApp-%230077B5?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
 
+<!-- ⚡ When Not Coding -->
+<h2 align="left">🌱 When Not Coding</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Photography-8A2BE2?style=for-the-badge" /> <!-- Purple -->
+  <img src="https://img.shields.io/badge/Travel-FF4500?style=for-the-badge" /> <!-- OrangeRed -->
+  <img src="https://img.shields.io/badge/Reading-4682B4?style=for-the-badge" /> <!-- SteelBlue -->
+  <img src="https://img.shields.io/badge/Adventure-228B22?style=for-the-badge" /> <!-- ForestGreen -->
+  <img src="https://img.shields.io/badge/Music-FF1493?style=for-the-badge" /> <!-- DeepPink -->
+</p>
 
+
+<!-- 🤝 Collaboration Invitation -->
+<h2 align="left" style="color:#FF8C00;">🤝 Collaboration Invitation</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20Source-6A5ACD?style=for-the-badge" /> <!-- SlateBlue -->
+  <img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge" /> <!-- DodgerBlue -->
+  <img src="https://img.shields.io/badge/Hackathons-FF4500?style=for-the-badge" /> <!-- OrangeRed -->
+  <img src="https://img.shields.io/badge/Mentorship-32CD32?style=for-the-badge" /> <!-- LimeGreen -->
+  <img src="https://img.shields.io/badge/Networking-FFD700?style=for-the-badge" /> <!-- Gold -->
+</p>
 
 <!-- Interactive Project Showcase -->
 <h2 align="left">🚀 Featured Projects </h2>
@@ -73,6 +142,8 @@ Founder at [thecampuscoders](te) | Full Stack Developer | UI/UX designer | YouTu
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkumar55&repo=PersonalPortFolio&theme=react&bg_color=0D1117&title_color=00F718&icon_color=00F718" />
 </div>
 </div>
+
+
 
 <!-- Recent Youtube Videos -->
 <!-- <h2 align="left">📺 Latest YouTube Videos </h2> -->
@@ -108,7 +179,6 @@ Founder at [thecampuscoders](te) | Full Stack Developer | UI/UX designer | YouTu
     />
   </picture>
 </div>
-
 
 
 
