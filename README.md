@@ -20,7 +20,7 @@
 <h2 align="left">🚀 About Me</h2>
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 - 🚀 Currently working on **[TheCampusCoders](https://www.thecampuscoders.com)**
 * 🖥️  See my portfolio at [Click Here](http://deepak.raajaryan.tech/)
@@ -130,6 +130,70 @@
   <img src="https://img.shields.io/badge/Mentorship-32CD32?style=for-the-badge" /> <!-- LimeGreen -->
   <img src="https://img.shields.io/badge/Networking-FFD700?style=for-the-badge" /> <!-- Gold -->
 </p>
+
+<!-- 🚀 Availability -->
+<h2 align="left">🚀 Available For</h2>
+
+<!-- 💼 Work Modes -->
+<p align="left">
+  <strong>💼 Work Modes:</strong><br>
+  <img src="https://img.shields.io/badge/Freelance-6A5ACD?style=for-the-badge" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Remote-FF4500?style=for-the-badge" alt="Remote Work" />
+  <img src="https://img.shields.io/badge/Part%20Time-32CD32?style=for-the-badge" alt="Part-Time" />
+  <img src="https://img.shields.io/badge/Full%20Time-FFD700?style=for-the-badge" alt="Full-Time" />
+  <img src="https://img.shields.io/badge/Consultation-8A2BE2?style=for-the-badge" alt="Consultation" />
+</p>
+
+<!-- 🛠 Expertise Areas -->
+<p align="left">
+  <strong>🛠 Expertise Areas:</strong><br>
+  <img src="https://img.shields.io/badge/MERN%20Stack-6A5ACD?style=for-the-badge" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Web%20Development-4682B4?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/API%20Development-FFA500?style=for-the-badge" alt="API Development" />
+  <img src="https://img.shields.io/badge/Database%20Design-1E90FF?style=for-the-badge" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contribution-32CD32?style=for-the-badge" alt="Open Source" />
+</p>
+
+<!-- ✍️ Content Creation -->
+<p align="left">
+  <strong>✍️ Content Creation:</strong><br>
+  <img src="https://img.shields.io/badge/Technical%20Blogging-FF4500?style=for-the-badge" alt="Technical Blogging" />
+  <img src="https://img.shields.io/badge/Video%20Scripting-FFD700?style=for-the-badge" alt="Video Scripting" />
+  <img src="https://img.shields.io/badge/Tutorial%20Writing-8A2BE2?style=for-the-badge" alt="Tutorial Writing" />
+  <img src="https://img.shields.io/badge/SEO%20Optimization-228B22?style=for-the-badge" alt="SEO Optimization" />
+  <img src="https://img.shields.io/badge/YouTube%20Content-FF0000?style=for-the-badge" alt="YouTube Content" />
+</p>
+
+<!-- 📸 Digital Creativity -->
+<p align="left">
+  <strong>📸 Digital Creativity:</strong><br>
+  <img src="https://img.shields.io/badge/Photography-6495ED?style=for-the-badge" alt="Photography" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-FF69B4?style=for-the-badge" alt="Graphic Design" />
+  <img src="https://img.shields.io/badge/Branding%20&%20Logo%20Design-FF6347?style=for-the-badge" alt="Branding & Logo Design" />
+  <img src="https://img.shields.io/badge/Photo%20Editing-4169E1?style=for-the-badge" alt="Photo Editing" />
+</p>
+
+<!-- 📅 Availability Status -->
+<p align="left">
+  <strong>📅 Current Status:</strong><br>
+  <img src="https://img.shields.io/badge/Available%20Now-228B22?style=for-the-badge" alt="Available Now" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-20B2AA?style=for-the-badge" alt="Open to Collaboration" />
+</p>
+
+<!-- 📩 Contact Me -->
+<p align="left">
+  <strong>📩 Contact Me:</strong><br>
+  <a href="mailto:deepak@thecampuscoders.com"><img src="https://img.shields.io/badge/Email%20Me-1E90FF?style=for-the-badge" alt="Email Me" /></a>
+  <a href="https://wa.me/+917870260954"><img src="https://img.shields.io/badge/WhatsApp%20Chat-FF4500?style=for-the-badge" alt="WhatsApp Chat" /></a>
+</p>
+
+<!-- 📝 Resume -->
+<p align="left">
+  <strong>📝 Resume:</strong><br>
+  <a href="https://drive.google.com/file/d/1jvFFLaBybN4iad1VeTgxSLEcZWMsiaDT/view?usp=sharing"><img src="https://img.shields.io/badge/View%20Resume-FFD700?style=for-the-badge" alt="View Resume" /></a>
+</p>
+
 
 <!-- Interactive Project Showcase -->
 <h2 align="left">🚀 Featured Projects </h2>
