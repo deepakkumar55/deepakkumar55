@@ -278,9 +278,9 @@
 <!-- AI-Powered Coding Insights -->
 <h2 align="left">🧠Code Analysis </h2>
 <div align="left">
-  <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakkumar55&theme=react" width="50%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakkumar55&theme=react" width="50%" />
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakkumar55&theme=react" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakkumar55&theme=react" width="47%" />
   </div>
 </div>
 
