@@ -274,17 +274,13 @@
 </p>
 
 
-<!-- Animated Gradient Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/mxGJhq0.gif" width="100%" height="2px">
-</div>
 
 <!-- AI-Powered Coding Insights -->
 <h2 align="left">🧠Code Analysis </h2>
-<div align="center">
+<div align="left">
   <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakkumar55&theme=react" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakkumar55&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakkumar55&theme=react" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakkumar55&theme=react" width="50%" />
   </div>
 </div>
 
