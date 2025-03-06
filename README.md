@@ -266,14 +266,13 @@
 
 
 <!-- Matrix-style Stats Rain -->
-<h2 align="left">🌈 GitHub Stats </h2>
-<div align="center">
-  <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&theme=react&fire=00F718&ring=00F718&currStreakLabel=00F718" alt="Streak" />
-  </div>
+## 🌈 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&theme=react&fire=00F718&ring=00F718&currStreakLabel=00F718" alt="Streak" width="48%" />
+</p>
+
 
 <!-- Animated Gradient Divider -->
 <div align="center">
