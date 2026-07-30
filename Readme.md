@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="Deepak Kumar — AI Full Stack Engineer and Founder of TheCampusCoders" width="100%" />
+  <img src="./Deepakkumar55.png" alt="Deepak Kumar — AI Full Stack Engineer and Founder of TheCampusCoders" width="100%" />
 
   <h1>Hi, I'm Deepak Kumar 👋</h1>
 
